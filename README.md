@@ -12,7 +12,7 @@
 ✉️ Puedes escribirme a **alejandro.casafer@gmail.com**, ¡responderé lo antes posible!  
 
 
-<img alt="Night Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Técnologias
 
