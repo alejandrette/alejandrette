@@ -6,10 +6,10 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
 💡 Me encanta explorar nuevas tecnologías y desarrollar soluciones web innovadoras.  
-🎓 Actualmente, estudio **Full Stack Developer** en 4 Geeks Academy.  
+🎓 He trabajado como **Full Stack Developer** en empresas como Zunder con herramientas como **Vue.js** y **Django**.  
 🌱 Estoy aprendiendo más sobre **Desarrollador Full Stack y UX/UI**.  
-✍️ Actualmente desarrollando mi **porfolio**.  
-✉️ Puedes escribirme a **alejandro.casafer@gmail.com**, ¡responderé lo antes posible!  
+✍️ Actualmente desarrollando mi **porfolio**.
+✉️ Puedes escribirme a **alejandro.casafer@gmail.com**, ¡responderé lo antes posible!
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400px"/>
